@@ -1,0 +1,12 @@
+INSERT INTO BrainDrain
+VALUES("1222","Ahmad","Sales","Ahmad23@gmail.com",45000),
+("1213","Saad","Technical","Saad73@gmail.com",55000),
+("5642","Ibrahim","Technical","Ibrahim_Twana@yahoo.com",145000),
+("7324","Talha","Marketing","Talha17062@itu.edu.pk",95000),
+("1001","Salman","HR","Salman78@yahoo.com",110000),
+("1032","Mohiyudin","Sales","Mohiyudin11@gmail.com",85000),
+("1772","Fkhar","Marketing","Fakhar_Muraad543@gmail.com",100000),
+("5555","Khadija","HR","Khadija11@yahoo.com",65000),
+("3456","Tahira","Sales","Tahira872@gmail.com",150000),
+("2298","Bakhtawar","HR","Bakht132065@gmail.com",75000),
+("8123","Babar","Technical","Babar_2341@yahoo.com",150000),
