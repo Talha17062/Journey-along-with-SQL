@@ -1,0 +1,7 @@
+CREATE TABLE BrainDrain(
+B_Id char(6),
+B_Name varchar(20),
+B_Department varchar(25),
+B_Emain varchar(40),
+B_Salary decimal(10,0)
+);
